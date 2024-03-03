@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muskan Malik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Blackjack Game**
-
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **muskan.malik9130@gmail.com**
